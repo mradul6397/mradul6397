@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mradul Goyal</h1>
 <h3 align="center">Passionate in the field of Data Science and SQL scripting.</h3>
-<img align="center" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-
+<img 
+  src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" 
+  alt="A coding animation" 
+  style="display: block; margin: 0 auto; width: 400px;">
+  
 - 🔭 I’m currently working on [Feeds Integration](https://github.com/whitelionae/sql)
 
 - 🌱 I’m currently learning **Data build tool(DBT), Power Bi**
