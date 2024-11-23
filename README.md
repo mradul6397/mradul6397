@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mradul Goyal</h1>
 <h3 align="center">Passionate in the field of Data Science and SQL scripting.</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="center" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradul6397&label=Profile%20views&color=0e75b6&style=flat" alt="mradul6397" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mradul6397" alt="mradul6397" /></a> </p>
 
 - 🔭 I’m currently working on [Feeds Integration](https://github.com/whitelionae/sql)
 
