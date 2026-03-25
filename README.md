@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on [Feeds Integration](https://github.com/whitelionae/sql)
 
-- 🌱 I’m currently learning **Data build tool(DBT), Snowflake**
+- 🌱 I’m currently learning **Advanced Data Analytics, Goolge**
 
 - 📫 How to reach me **mradulgoyal2302@gmail.com**
 
